@@ -1,0 +1,54 @@
+.grid-container
+{
+    display: grid;
+    grid-template-columns: repeat(29, auto);
+}
+
+.grid-block
+{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 30px;
+    height: 30px;
+}
+
+.black
+{
+    background-color: black;
+}
+
+.light-green
+{
+    background-color: limegreen;
+}
+
+.green
+{
+    background-color: forestgreen;
+}
+
+.dark-green
+{
+    background-color: darkgreen;
+}
+
+.brown
+{
+    background-color: saddlebrown;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.white
+{
+    background-color: white;
+}
+
+.red
+{
+    background-color: red;
+}
